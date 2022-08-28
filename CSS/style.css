@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body{
+    background-color: #00ffff;
+}
+.imagem{
+    text-align: center;
+}
+
+.par{
+    text-align: center;
+    color: rgb(6, 6, 6);
+    text-justify: auto;
+    letter-spacing: 2px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(239, 17, 17);
+    color: aliceblue;
+    letter-spacing: 2px;
+}
+
+h3{
+    text-align: center;
+    background-color: rgb(239, 17, 17);
+    color: aliceblue;
+    letter-spacing: 2px;
+}
+
+.habilid{
+    text-align: center;
+    letter-spacing: 2px;
+    text-align: justify;
+}
+
+
+
+.apresentation{
+    text-align: justify;
+    letter-spacing: 2px;
+}
+.links{
+    margin-top: 0,5rem;
+    display: inline-block;
+    margin-left: 50px;
+    align-items: center;
+    letter-spacing: 2px;
+   
+}
+.links a{
+    text-decoration: none;
+    color:#060606;
+    padding: 1rem;
+    border: 1px solid #e0d5d7;
+    letter-spacing: 4px;
+    display: block;
+    letter-spacing: 2px;
+  
+}
+.audio{
+    text-align: center;
+    background-color: rgb(239, 17, 17);
+    color: aliceblue;
+    letter-spacing: 2px;
+}
